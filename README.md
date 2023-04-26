@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Fellow+</Developers>&color=99ffe0&center=true&vCenter=true&width=900&size=24)](https://git.io/typing-svg)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashraful Mijan
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashraful Mijan
 ======================================================================================================================================
 
 React Developer, Web Developer, Javascript Developer
