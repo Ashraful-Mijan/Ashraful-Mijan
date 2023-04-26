@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=99ffe0&center=true&vCenter=true&width=435&size=27&pause=1000&lines=Hello+Fellow+</Developers>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&color=99ffe0&width=435&size=27&pause=1000&lines=Hello+Fellow+</Developers>)](https://git.io/typing-svg)
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashraful Mijan
 ======================================================================================================================================
