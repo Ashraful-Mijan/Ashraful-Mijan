@@ -2,6 +2,11 @@
 
 <div data-sourcepos="1:1-1:157" dir="auto" align="center"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/b2ddda66926dad7148c390abf638cced55d2ee334a0c7d3ee84bf668d5f872cc/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f636f6c6f723d3939666665302677696474683d3433352673697a653d32372670617573653d31303030266c696e65733d48656c6c6f2b46656c6c6f772b2533432f446576656c6f70657273253345" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com/?color=99ffe0&amp;width=435&amp;size=27&amp;pause=1000&amp;lines=Hello+Fellow+%3C/Developers%3E" style="max-width: 100%;"></a></div>
 
+<div align="center" dir="auto">
+  <a href="https://bimasha.com/" rel="nofollow">
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg" alt="snake" style="max-width: 100%;"></a>
+</div>
+
 React Developer, Web Developer, Javascript Developer
 ----------------------------------------------------
 
