@@ -1,5 +1,3 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?color=99ffe0&width=435&size=27&pause=1000&lines=Hello+Fellow+</Developers>)](https://git.io/typing-svg) -->
-
 <div data-sourcepos="1:1-1:157" dir="auto" align="center"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/b2ddda66926dad7148c390abf638cced55d2ee334a0c7d3ee84bf668d5f872cc/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f636f6c6f723d3939666665302677696474683d3433352673697a653d32372670617573653d31303030266c696e65733d48656c6c6f2b46656c6c6f772b2533432f446576656c6f70657273253345" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com/?color=99ffe0&amp;width=435&amp;size=27&amp;pause=1000&amp;lines=Hello+Fellow+%3C/Developers%3E" style="max-width: 100%;"></a></div>
 
 <div align="center" dir="auto">
@@ -7,10 +5,9 @@
   <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg" alt="snake" style="max-width: 100%;"></a>
 </div>
 
-React Developer, Web Developer, Javascript Developer
-----------------------------------------------------
+0.02% About Me:
+---
 
-a self-motivated web developer with deep knowledge and proficiency in front-end technology and mobile responsive web development.
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [portfolio](http://ashraful-mijan.web.app/)
@@ -19,13 +16,8 @@ a self-motivated web developer with deep knowledge and proficiency in front-end 
 * 🧠  I'm learning deep dive into new things
 * ⚡  I find my self with a good characteristic that is "if i on task i can't cool down"
 
-<a href="https://www.github.com/Ashraful-Mijan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ashraful-Mijan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ashraful__mijan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ashraful__mijan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
-
+---
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
